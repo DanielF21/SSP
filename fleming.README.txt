@@ -1,0 +1,19 @@
+When running the OD code you will be prompted with the question:
+
+"Middle Observation?:"
+
+type either 2 3 or 4 (the input file has 5 valid observations)
+you will also be asked the question:
+
+"yes?"
+
+by typing 1 (yes) you are confirming the 2 3 or 4 middle observation
+by typing 0 (no) you are making the first second and third observations the inputs
+
+
+Hope you like the interpretive dance :)
+
+
+P.S. 
+I tried to make the Orbital Visualization work but it didn't so i just commented it out at the very bottom of the code
+
