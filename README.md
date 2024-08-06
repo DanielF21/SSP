@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>SSP - Orbital Determination Code/Python Problem Sets</title>
 </head>
 <body>
   <h1>SSP</h1>
